@@ -1,6 +1,6 @@
 # Jordson's documentation and translations.
 
-Find all Jordson documentation and contribute to the translation.
+All Jordson documentation and contribute to the translation. You can follow the current [RoadMap](https://github.com/orgs/jordson-io/projects/4).
 
 ## How to contribute ?
 
